@@ -22,3 +22,21 @@ Paulo Boaventura
 
 Carta enviada ao correio - Dia 06/05/2018 - 03:24h 
 96689775
+-------------------------------------------------------------------------------------------------------
+UPDATE
+
+Infelizmente apos abrir mais de 45 chamados em todos projetos que usam....
+Vejo que o problema não é só dos correios.
+As taxas mais uma vez mudaram de valor.... Agora os correios tem Seguro. O que esta gerando um calculo errado diante da consulta antiga.
+E assim entendo os os desenvolvedores, que optaram por não se desgastar em atualizar ou melhor refazer o trabalho do zero. Com tantas mudanças e diversos problemas..
+O que achei uma boa opção é trabalhar com Tabela. E colocar mais de uma opção para o cliente.
+Dá trabalho, mas não tem tanta dor de cabeça...
+Estou desenvolvendo uma implementação que funciona com tabela, consulta os correios e atualiza transportadoras.
+Me desafiei a fazer este trabalho, cansativo afim de ter uma tranquilidade.
+Espero que em breve possa compartilhar. Para ajudar a muitos.
+
+As extensões de vocês estão funcionado?
+E quais são estas?
+Gostaria de saber se estão efetuando o valor correto...
+
+Abraços
